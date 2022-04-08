@@ -8,6 +8,11 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
          WELCOME TO TECK WORD BY POPOOLA OLAIDE
+
+
+
+
+         Never say never
         </p>
         <a
           className="App-link"
